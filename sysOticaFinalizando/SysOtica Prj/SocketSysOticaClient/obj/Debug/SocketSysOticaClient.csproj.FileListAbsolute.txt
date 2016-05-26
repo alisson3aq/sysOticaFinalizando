@@ -1,0 +1,80 @@
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\Projeto Final DSD Melo\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\karli\Desktop\ProjetoOtica\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\daaysesantos\Desktop\sysOticaFinalizado\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\Apresentacao\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\Dayse\Desktop\sysOticaFinalizando\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\FinalMELODSD\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\karli\Desktop\NOVO\sysOticaFinal\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\ApresentarAmanha\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe.config
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\bin\Debug\SocketSysOticaClient.pdb
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Properties.Resources.resources
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.Socket_Client___DSD_MELO.resources
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.csproj.GenerateResource.Cache
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.exe
+C:\Users\Leonardo Marques\Desktop\SysOtica\SysOtica Prj\SysOtica Prj\SocketSysOticaClient\obj\Debug\SocketSysOticaClient.pdb
